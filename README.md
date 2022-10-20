@@ -1,2 +1,2 @@
-# first-day-repo
-First day!
+# first week!
+All the activities during the first week.
