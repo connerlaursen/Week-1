@@ -1,2 +1,2 @@
-# first week!
-All the activities during the first week.
+# All Activies during week 1
+HTML, CSS, and probably JavaScript on day 3.
